@@ -5,6 +5,7 @@
 # ms.contentlocale: fr-FR
 # ms.lasthandoff: 07/01/2021
 # ms.locfileid: "113169702"
+
 trigger:
 - '*'
 pool:
